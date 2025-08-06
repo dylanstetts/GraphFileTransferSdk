@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\services\\graphclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:services\\graphclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\services\\filetransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:services\\filetransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\models\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:models\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|c:\\users\\dylanstetts\\downloads\\scripts\\.net\\documentlibraryprocessor\\files\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81B3B202-792B-4C83-B049-BAC4F3FF61BA}|DocumentLibraryProcessor.csproj|solutionrelative:files\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "example.txt",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\files\\example.txt",
+              "RelativeDocumentMoniker": "files\\example.txt",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\files\\example.txt",
+              "RelativeToolTip": "files\\example.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-06T14:53:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T14:48:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Services\\FileTransferService.cs",
+              "RelativeDocumentMoniker": "Services\\FileTransferService.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Services\\FileTransferService.cs",
+              "RelativeToolTip": "Services\\FileTransferService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:47:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Services\\GraphClientFactory.cs",
+              "RelativeDocumentMoniker": "Services\\GraphClientFactory.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Services\\GraphClientFactory.cs",
+              "RelativeToolTip": "Services\\GraphClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:47:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Models\\FileMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\FileMetadata.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Models\\FileMetadata.cs",
+              "RelativeToolTip": "Models\\FileMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:46:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dylanstetts\\Downloads\\Scripts\\.NET\\DocumentLibraryProcessor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:45:35.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

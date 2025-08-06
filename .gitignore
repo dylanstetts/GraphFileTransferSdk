@@ -1,0 +1,13 @@
+# Ignore appsettings.json
+appsettings.json
+/bin/Debug/GraphFileTransferSdk.1.0.0.nupkg
+/bin/Debug/net9.0
+/obj/Debug/net9.0
+/obj/Debug/GraphFileTransferSdk.1.0.0.nuspec
+/bin/Debug/net8.0
+/obj/Debug/net8.0
+/.vs/GraphFileTransferSdk/CopilotIndices/17.14.827.52834
+/.vs/GraphFileTransferSdk
+/.vs/GraphFileTransferSdk/CopilotIndices/17.14.827.52834
+/.vs/GraphFileTransferSdk/FileContentIndex
+/bin/Debug
